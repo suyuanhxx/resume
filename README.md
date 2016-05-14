@@ -41,7 +41,7 @@
 ---
 
 ## 开源项目和作品
-### 开源项目
+### 开源作品
  - [VolunteerBank](https://github.com/suyuanhxx/VolunteerBank) : 志愿者银行系统，使用SSH(spring+struts+hibernate)编写的一个志愿者工作记录，时间积分兑换系统
  - [mycms](https://github.com/suyuanhxx/mycms) : 个人兴趣，使用spring MVC架构和Mybatis持久层框架编写的一个CMS（新闻发布系统）系统，加强自己编码能力和对spring MVC架构的学习。同时也通过该项目自学Maven和项目的搭建
 
