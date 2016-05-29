@@ -1,6 +1,6 @@
 ## 联系方式
 - 手机：13007133406
-- Email：huangxiaoxu93@gmail.com
+- Email：1498319046@qq.com
 - QQ/微信号：1498319046
 - LinkIn: [黄小旭](https://linkedin.com/in/小旭-黄-7b0b19b4)
 
