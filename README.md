@@ -16,7 +16,7 @@
 ## 工作经历
 ### 银科控股（大象贵金属）（2016.06 ~ 至今）
 - 职责：公司相关app的功能实现，系统维护，代码优化
-- 技术：Java+SpringMVC+Html5+node+Hessian+...
+- 技术：Java+SpringMVC+Html5+node+Hessian+Redis+...
 - 主要成就：微盘宝app，微盘易app，大象贵金属app
 
 ---
