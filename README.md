@@ -5,7 +5,7 @@
 - 技术博客：[https://suyuanhxx.github.io](https://suyuanhxx.github.io)
 - Github: [https://github.com/suyuanhxx](https://github.com/suyuanhxx)
 - 期望职位：Java工程师 
-- 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
+- 期望薪资：税前月薪14k~16k，特别喜欢的公司可例外
 
 ---
 
