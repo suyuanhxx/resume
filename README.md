@@ -77,7 +77,7 @@
 - GIS软件工程师
 
 ### 开源项目
-- [zrxlaw](https://github.com/suyuanhxx/zrxlaw): Spring Boot和Spring AOP简单微服务例子。结合MongoDB和RESTful风格API，扩展自己的技术栈。
+- [zrxlaw](https://github.com/suyuanhxx/zrxlaw): nodejs 编写的简单增删改查项目
 - [findgod](https://github.com/suyuanhxx/findgod): Spring Boot和Spring AOP简单微服务例子。结合MongoDB和RESTful风格API，扩展自己的技术栈。
 - [VolunteerBank](https://github.com/suyuanhxx/VolunteerBank) : 志愿者银行系统，使用SSH(Spring+Struts+Hibernate)编写的一个志愿者工作记录，时间积分兑换系统
 - [mycms](https://github.com/suyuanhxx/mycms) : Spring MVC架构和MyBatis持久层框架编写的一个CMS（新闻发布系统）系统，加强自己编码能力和对spring MVC架构的学习。
