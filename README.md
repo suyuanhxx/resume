@@ -5,8 +5,6 @@
 - 技术博客：[https://suyuanhxx.github.io](https://suyuanhxx.github.io)
 - Github: [https://github.com/suyuanhxx](https://github.com/suyuanhxx)
 - 期望职位：Golang开发工程师 
-- 期望薪资：税前月薪20K
-
 ---
 
 ## 联系方式
@@ -21,8 +19,7 @@
 - Java，Go
 - JavaScript，Html，Bootstrap，Angularjs
 - Spring FrameWork(SpringMVC，Spring Boot，Spring Cloud)
-- MySQL，MyBatis，MongoDB
-- Redis，RabbitMQ，RPC(Dubbo, Hessian)，Solr
+- MySQL，MyBatis，MongoDB，Oracle，区块链
 - Nodejs(Express，mongoose)
 - Git，SVN，Maven，IntelliJ IDEA
 - Tomcat，JBoss
@@ -49,6 +46,23 @@
     6. 恒生交易系统接口优化，实现分布式情况下访问恒生交易系统登陆状态唯一性
     7. 计算组合收益率相关数据
 
+### 银科控股（大象贵金属）（2016.06 ~ 2017.05）
+- 公司背景：互联网现货交易平台。主要是为个人投资者在国内三大贵金属交易所(包括上海黄金交易所、天津贵金属交易所和广东贵金属交易中心)进行白银、黄金和其他贵金属或大宗商品现货投资提供交易服务。
+- 职责：公司相关app的功能实现，系统维护，代码优化，技术预研。
+- 技术：Java + SpringMVC + MyBatis + MySQL + Hessian + Redis + RabbitMQ + Hystrix + Nodejs + MongoDB，采用集群分布式部署。
+- 主要负责功能点如下：
+    1. 用户交易行情模块。用户，账号，业务管理；注册开户激活。获取交易行情。
+    2. APP平仓抽奖功能。用户抽奖领奖，用户收货地址，奖品管理。
+    3. 用户交易积分卡券。将用户的交易平仓记录转化积分。
+    4. 大量用户消息推送。APP消息通知，微信消息推送（图文消息，模板消息推送）。
+    5. 直播室管理。直播，喊单。
+- 主要成就：
+    1. 主导设计用户积分系统的数据字典和积分卡券数据结构。
+    2. 完成微盘宝APP用户大规模消息通知推送，解决了推送慢，重复推送的问题。解决在高并发平仓过程中Redis队列压力过大的问题。
+    3. 自动化测试环境搭建优化。SVN迁移到Git， 对公司现有配置文件方式进行优化，自动化构建环境的搭建，解决多个环境下构建复杂的问题。对maven配置优化，解决版本依赖冲突，对Jar包版本集中式管理。
+    4. 对公司原有用户账号体系进行优化，代码重构。将新的技术框架引入项目中，并顺利上线。
+    5. 对目前项目中Redis使用方式进行优化，并给出了一套比较合理的解决方案
+    6. 优化HttpClient，使用Hystrix服务降级，增加功能容错率。
 
 ### 银科控股（大象贵金属）（2016.06 ~ 2017.05）
 - 公司背景：互联网现货交易平台。主要是为个人投资者在国内三大贵金属交易所(包括上海黄金交易所、天津贵金属交易所和广东贵金属交易中心)进行白银、黄金和其他贵金属或大宗商品现货投资提供交易服务。
@@ -87,11 +101,9 @@
 ### 证书
 - 软件设计师（中级）
 
-
 ### 开源项目
 - [zrxlaw](https://github.com/suyuanhxx/zrxlaw): nodejs 编写的简单增删改查项目
 - [blockchain](https://github.com/suyuanhxx/blockchain.git):使用go语言编写的简易区块链项目
-
 ---
 
 ## 职业目标  
