@@ -1,5 +1,5 @@
 ## 个人信息
-- 黄小旭/男/1993.05.01  
+- Tedrick/男/1993.05.01  
 - 中国地质大学（武汉）- 软件工程 &emsp; 本科 &emsp; 2011.09 - 2015.06
 - 工作年限：3年 &emsp; 现居住地：上海&emsp;  期望工作地点：上海或者杭州
 - 技术博客：[https://suyuanhxx.github.io](https://suyuanhxx.github.io)
@@ -10,7 +10,7 @@
 ## 联系方式
 - Email：1498319046@qq.com
 - Tel: MTMwMDcxMzM0MDY=
-- QQ/微信号：MTQ5ODMxOTA0Ng==
+- QQ/微信号：suyuanhxx（加好友请注明github）
 - LinkIn: [黄小旭](https://linkedin.com/in/小旭-黄-7b0b19b4)
 
 ---
@@ -73,6 +73,7 @@
 ### 开源项目
 - [zrxlaw](https://github.com/suyuanhxx/zrxlaw): nodejs 编写的简单增删改查项目
 - [blockchain](https://github.com/suyuanhxx/blockchain.git):使用go语言编写的简易区块链项目
+- [crawler](https://github.com/suyuanhxx/crawler): tumblr爬虫
 ---
 
 ## 职业目标  
