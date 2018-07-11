@@ -11,7 +11,7 @@
 
 ## 联系方式
 - Email：1498319046@qq.com
-- Tel: 13007133406
+- Tel: 
 - QQ/微信号：suyuanhxx
 - LinkIn: [黄小旭](https://linkedin.com/in/小旭-黄-7b0b19b4)
 
